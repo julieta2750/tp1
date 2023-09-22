@@ -1,0 +1,84 @@
+body {     margin-left: auto;
+    margin-right: auto;
+max-width: 100%;}
+#encabezado1 {     
+background-image: url(../imagenes/foto_encabezado.jpg);
+
+    background-size: cover ;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    margin-top: -5px;
+    font-size: 90px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #fff8c4;
+    text-shadow: 6px 3px 6px #00000054;
+    padding: 10%;
+}
+.copete{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    background-color: #fff8c4;
+    padding: 100px;
+    margin-top: -60px;
+}
+.centro{
+    text-align: center;
+}
+.cuerpotxt{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    padding: 100px;
+    margin-top: -60px;
+}
+.titulo1{
+    font-size: 40px;
+    color: #436941;
+    padding: 4px 240px 4px 100px;
+    text-align: left;
+}
+.titulo2{
+    font-size: 40px;
+    color: #436941;
+    padding: 40px 240px 4px 100px;
+    text-align: left;
+}
+
+.lista{
+    font-size: 20px;
+    color: #363936;
+    text-align: left;
+    padding: 4px 240px 4px 100px;
+}
+.textobarra{
+    background-color: #436941;
+    font-size: 20px;
+    color: #fff8c4;
+    text-align: center;
+    padding: 15px 240px 15px 100px;
+}
+.foto{
+    float: right;
+    padding: 30px 100px 100px 100px;
+}
+.copete2{ 
+text-align:left;
+font-size: 30px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 100;
+padding: 4px 100px 4px 100px;
+}
+
+.foto2{
+    float: left;
+    padding: 30px 100px 100px 100px;
+}
+
+.mapa{
+    padding: 0px 500px 100px 100px;
+}
